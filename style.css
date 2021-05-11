@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(20, 21, 22) !important;
+    font: 14px sans-serif;
+    color: white !important;
+}
+
+.wrapper {
+    padding: 10px;
+    width: 100%;
+    margin: auto;
+}
+
+
+
+label {
+    font-size: large;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
